@@ -1,0 +1,8 @@
+{
+  "name": "ConnectWallet",
+  "version": "1.0.0",
+  "description": "Try to add wallet",
+  "main": "index.js",
+  "author": "Tran Khoi Nguyen",
+  "license": "MIT"
+}
